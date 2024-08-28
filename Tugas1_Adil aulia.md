@@ -9,15 +9,15 @@
 ### by Xuedi Qin,Yuyu Lao,Nantang,Guoling Li
 ---
 
-## <blockquote>Pendahuluan
+## Pendahuluan
 
-### Visualisasi data adalah sarana untuk mengubah data abstrak menjadi visi fisik untuk menginformasikan kisah data yang menarik yg lebih berorientasi visual
+### <blockquote>Visualisasi data adalah sarana untuk mengubah data abstrak menjadi visi fisik untuk menginformasikan kisah data yang menarik yg lebih berorientasi visual
 
 ### Alur visualisasi data :
 
 ####  Impor  ->  Persiapan  ->  Manipulasi  ->  Pemetaan ->  Rendera
 
-
+---
 ## Spesifikasi Visualisasi Data
 
 ### Secara umum,bahasa visualisasi terdiri dari 3 bagian yaitu data, tanda(syarat visual), dan pemetaan diantara keduanya.Operasi Visual berbasis GUI biasanya diterjemahkan ke dalam bahasa visualisasi data.
@@ -25,7 +25,7 @@
 ## Kategori Bahasa Visualisasi Data
 1. #### Bahasa Tingkat Rendah,yaitu bahasa yang diperlukan pengguna untuk menentukan semua elemen pemetaan
 2. #### Bahasa Tingkat Tinggi,yaitu untuk merangkum detail kontruksi visualisasi seperti  fungsi pemetaan
-
+---
 ## Pendekatan Efisien untuk visualisasi Data
 ### Visualisasi Data yang tepat
 1. #### Mengintegrasikan sistem visualisasi dengan DBMS
@@ -42,7 +42,7 @@
 
 ### Visualisasi Data Progresif
 #### Binning Berbasis rentang yang memberikan visualisasi resolusi berbeda dengan mengubah ukuran nampan dan Binning Berbasis  Rentang dan Konten yang menyediakan dua  struktur pohon untuk eksplorasi hierarki
-
+---
 ## Rekomendasi Visualisasi
 ### Rekomendasi berdasarkan spesifikasi
 #### Beberapa spesifikasinya yaitu  spesifikasi tidak lengkap yang dapat dipecahkan dengan pemeringkatan visualisasi berdasarkan aturan( aturan statistik dan aturan preseptual) dan solusi berbasis pembelajaran mesin (belajar dengan kendala sedikit dan belajar dengan contoh), yang kedua ada spesifikasi berbasis referensi yaitu dengan berbasis penyimpangan, berbasis anomali,dan berbasis kesamaan jarak
@@ -51,6 +51,6 @@
 ### Rekomendasi yang dipersonalisasi
 #### Sistem rekomendasi yang dipersonalisasi menangkap riwayat prilaku pengguna sebagai masukan untuk merekomendasikan visualisasi menarik yang dipersonalisasi.Ada dua metode yang digunakan yaitu dengan Model linier dan Penyaringan Kolaboratif
 
-
+---
 ## Kesimpulan
 ### Visualisasi data adalah bidang yang berkembang pesat dengan banyaknya hasil penelitian baru dan sistem baru yang dikembangkan baru baru ini.Penelitian dan praktisi dan berbagai bidang telah berkontribusi terhadap keberhasilan visualisasi data yang luar biasa,yang didorong oleh sebagian besar domain dan aplikasi
