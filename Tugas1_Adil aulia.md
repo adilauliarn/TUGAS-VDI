@@ -23,7 +23,7 @@
 ### <blockquote>Secara umum,bahasa visualisasi terdiri dari 3 bagian yaitu data, tanda(syarat visual), dan pemetaan diantara keduanya.Operasi Visual berbasis GUI biasanya diterjemahkan ke dalam bahasa visualisasi data.
 
 ## Kategori Bahasa Visualisasi Data
-1. #### <blockquote>Bahasa Tingkat Rendah,yaitu bahasa yang diperlukan pengguna untuk menentukan semua elemen pemetaan
+1. #### Bahasa Tingkat Rendah,yaitu bahasa yang diperlukan pengguna untuk menentukan semua elemen pemetaan
 2. #### Bahasa Tingkat Tinggi,yaitu untuk merangkum detail kontruksi visualisasi seperti  fungsi pemetaan
 ---
 ## Pendekatan Efisien untuk visualisasi Data
@@ -36,12 +36,12 @@
 
 
 ### Perkiraan Visualisasi Data
-#### <blockquote> - Berbasis AQP -> dengan menggunakan sekumpulan data yang representatif dapat memberikan perkiraan visualisasi interaksi online kepada pengguna dengan mengorbankan kualitas.
-#### -Berbasis pengambilan sampel tambahan -> sistem menghasilkan visualisasi perkiraan berdasarkan sampel data yang representatif dengan cepat.Pengguna biasanya dapat memperoleh wawasan awal dari perkiraan dan memutuskan untuk menghentikan jika kualitas visualisasi cukup memverifikasi wawasan ini.
-#### -Berbasis Presepsi manusia -> dengan menghentikan pengambilan sampel ketika tidak ada perbedaan nyata pada presepsi manusia antara perkiraan visualisasi saat ini dan visualisasi yang diperoleh dengan pengambilan sampel lebih lanjut
+#### <blockquote>- Berbasis AQP -> dengan menggunakan sekumpulan data yang representatif dapat memberikan perkiraan visualisasi interaksi online kepada pengguna dengan mengorbankan kualitas.
+#### <blockquote>-Berbasis pengambilan sampel tambahan -> sistem menghasilkan visualisasi perkiraan berdasarkan sampel data yang representatif dengan cepat.Pengguna biasanya dapat memperoleh wawasan awal dari perkiraan dan memutuskan untuk menghentikan jika kualitas visualisasi cukup memverifikasi wawasan ini.
+#### <blockquote>-Berbasis Presepsi manusia -> dengan menghentikan pengambilan sampel ketika tidak ada perbedaan nyata pada presepsi manusia antara perkiraan visualisasi saat ini dan visualisasi yang diperoleh dengan pengambilan sampel lebih lanjut
 
 ### Visualisasi Data Progresif
-#### Binning Berbasis rentang yang memberikan visualisasi resolusi berbeda dengan mengubah ukuran nampan dan Binning Berbasis  Rentang dan Konten yang menyediakan dua  struktur pohon untuk eksplorasi hierarki
+#### <blockquote>Binning Berbasis rentang yang memberikan visualisasi resolusi berbeda dengan mengubah ukuran nampan dan Binning Berbasis  Rentang dan Konten yang menyediakan dua  struktur pohon untuk eksplorasi hierarki
 ---
 ## Rekomendasi Visualisasi
 ### Rekomendasi berdasarkan spesifikasi
