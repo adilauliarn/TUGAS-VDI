@@ -1,11 +1,12 @@
 # **Tugas Pertemuan 1 Visualisasi Data dan Informasi**
 
 <blockk>Nama : Adil Aulia Rahma Nurhidayah
-NIM  : 122450058<blockquote>
+(NIM  : 122450058)<blockquote>
 ---
 # RESUME JURNAL  
 ---
-## *Making Data Visualization More efficient and Effective a survey*
+## <>*Making Data Visualization More efficient and Effective a survey*
+by Xuedi Qin,Yuyu Lao,Nantang,Guoling Li<>
 
 ## Pendahuluan
 
