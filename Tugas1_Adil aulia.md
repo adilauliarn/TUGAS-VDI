@@ -2,7 +2,7 @@
 
 <blockk>Nama : Adil Aulia Rahma Nurhidayah
 NIM  : 122450058<blockquote>
-
+---
 # RESUME JURNAL  
 ---
 ## *Making Data Visualization More efficient and Effective a survey*
