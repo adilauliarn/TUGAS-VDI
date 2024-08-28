@@ -1,10 +1,10 @@
-# *Tugas Pertemuan 1 Visualisasi Data dan Informasi*
+# **Tugas Pertemuan 1 Visualisasi Data dan Informasi**
 
-### Nama : Adil Aulia Rahma Nurhidayah
-### NIM  : 122450058
+<blockk>Nama : Adil Aulia Rahma Nurhidayah
+NIM  : 122450058<blockquote>
 
-# Judul Jurnal 
-
+# RESUME JURNAL  
+---
 ## *Making Data Visualization More efficient and Effective a survey*
 
 ## Pendahuluan
