@@ -20,14 +20,14 @@
 ---
 ## Spesifikasi Visualisasi Data
 
-### Secara umum,bahasa visualisasi terdiri dari 3 bagian yaitu data, tanda(syarat visual), dan pemetaan diantara keduanya.Operasi Visual berbasis GUI biasanya diterjemahkan ke dalam bahasa visualisasi data.
+### <blockquote>Secara umum,bahasa visualisasi terdiri dari 3 bagian yaitu data, tanda(syarat visual), dan pemetaan diantara keduanya.Operasi Visual berbasis GUI biasanya diterjemahkan ke dalam bahasa visualisasi data.
 
 ## Kategori Bahasa Visualisasi Data
-1. #### Bahasa Tingkat Rendah,yaitu bahasa yang diperlukan pengguna untuk menentukan semua elemen pemetaan
+1. #### <blockquote>Bahasa Tingkat Rendah,yaitu bahasa yang diperlukan pengguna untuk menentukan semua elemen pemetaan
 2. #### Bahasa Tingkat Tinggi,yaitu untuk merangkum detail kontruksi visualisasi seperti  fungsi pemetaan
 ---
 ## Pendekatan Efisien untuk visualisasi Data
-### Visualisasi Data yang tepat
+### <blockquote>Visualisasi Data yang tepat
 1. #### Mengintegrasikan sistem visualisasi dengan DBMS
 2. #### Beberapa kolom dalam pengelolaan data
 3. #### Indeks unntuk meningkatkan kinerja perusahaan dengan mengurangi jumlah baris dalam tabel yang perlu diperiksa
