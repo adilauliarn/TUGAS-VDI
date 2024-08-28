@@ -27,7 +27,7 @@
 2. #### Bahasa Tingkat Tinggi,yaitu untuk merangkum detail kontruksi visualisasi seperti  fungsi pemetaan
 ---
 ## Pendekatan Efisien untuk visualisasi Data
-### <blockquote>Visualisasi Data yang tepat
+### Visualisasi Data yang tepat
 1. #### Mengintegrasikan sistem visualisasi dengan DBMS
 2. #### Beberapa kolom dalam pengelolaan data
 3. #### Indeks unntuk meningkatkan kinerja perusahaan dengan mengurangi jumlah baris dalam tabel yang perlu diperiksa
@@ -36,7 +36,7 @@
 
 
 ### Perkiraan Visualisasi Data
-#### - Berbasis AQP -> dengan menggunakan sekumpulan data yang representatif dapat memberikan perkiraan visualisasi interaksi online kepada pengguna dengan mengorbankan kualitas.
+#### <blockquote> - Berbasis AQP -> dengan menggunakan sekumpulan data yang representatif dapat memberikan perkiraan visualisasi interaksi online kepada pengguna dengan mengorbankan kualitas.
 #### -Berbasis pengambilan sampel tambahan -> sistem menghasilkan visualisasi perkiraan berdasarkan sampel data yang representatif dengan cepat.Pengguna biasanya dapat memperoleh wawasan awal dari perkiraan dan memutuskan untuk menghentikan jika kualitas visualisasi cukup memverifikasi wawasan ini.
 #### -Berbasis Presepsi manusia -> dengan menghentikan pengambilan sampel ketika tidak ada perbedaan nyata pada presepsi manusia antara perkiraan visualisasi saat ini dan visualisasi yang diperoleh dengan pengambilan sampel lebih lanjut
 
