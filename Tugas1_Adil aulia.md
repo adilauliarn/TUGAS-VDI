@@ -6,7 +6,7 @@
 # RESUME JURNAL  
 ---
 ## <blockquote>*Making Data Visualization More efficient and Effective a survey*
-by Xuedi Qin,Yuyu Lao,Nantang,Guoling Li<blockquote>
+<blockquote>by Xuedi Qin,Yuyu Lao,Nantang,Guoling Li
 ---
 
 ## Pendahuluan
