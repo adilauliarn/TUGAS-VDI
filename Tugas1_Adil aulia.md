@@ -44,13 +44,13 @@
 #### <blockquote>Binning Berbasis rentang yang memberikan visualisasi resolusi berbeda dengan mengubah ukuran nampan dan Binning Berbasis  Rentang dan Konten yang menyediakan dua  struktur pohon untuk eksplorasi hierarki
 ---
 ## Rekomendasi Visualisasi
-### Rekomendasi berdasarkan spesifikasi
-#### Beberapa spesifikasinya yaitu  spesifikasi tidak lengkap yang dapat dipecahkan dengan pemeringkatan visualisasi berdasarkan aturan( aturan statistik dan aturan preseptual) dan solusi berbasis pembelajaran mesin (belajar dengan kendala sedikit dan belajar dengan contoh), yang kedua ada spesifikasi berbasis referensi yaitu dengan berbasis penyimpangan, berbasis anomali,dan berbasis kesamaan jarak
-### Rekomendasi berbasis prilaku
-#### Sistem rekomendasi ini menangkap prilaku pengguna saat ini sebagai masukan,kemudian menyimpulkan tugas yang diinginkan pengguna dan merekomendasikan visualisasi yang berguna berdasarkan tugas mereka  contohnya memanen
-### Rekomendasi yang dipersonalisasi
-#### Sistem rekomendasi yang dipersonalisasi menangkap riwayat prilaku pengguna sebagai masukan untuk merekomendasikan visualisasi menarik yang dipersonalisasi.Ada dua metode yang digunakan yaitu dengan Model linier dan Penyaringan Kolaboratif
+1. ### Rekomendasi berdasarkan spesifikasi
+#### <blockquote>Beberapa spesifikasinya yaitu  spesifikasi tidak lengkap yang dapat dipecahkan dengan pemeringkatan visualisasi berdasarkan aturan( aturan statistik dan aturan preseptual) dan solusi berbasis pembelajaran mesin (belajar dengan kendala sedikit dan belajar dengan contoh), yang kedua ada spesifikasi berbasis referensi yaitu dengan berbasis penyimpangan, berbasis anomali,dan berbasis kesamaan jarak
+2. ### Rekomendasi berbasis prilaku
+#### <blockquote>Sistem rekomendasi ini menangkap prilaku pengguna saat ini sebagai masukan,kemudian menyimpulkan tugas yang diinginkan pengguna dan merekomendasikan visualisasi yang berguna berdasarkan tugas mereka  contohnya memanen
+3. ### Rekomendasi yang dipersonalisasi
+#### <blockquote>Sistem rekomendasi yang dipersonalisasi menangkap riwayat prilaku pengguna sebagai masukan untuk merekomendasikan visualisasi menarik yang dipersonalisasi.Ada dua metode yang digunakan yaitu dengan Model linier dan Penyaringan Kolaboratif
 
 ---
 ## Kesimpulan
-### Visualisasi data adalah bidang yang berkembang pesat dengan banyaknya hasil penelitian baru dan sistem baru yang dikembangkan baru baru ini.Penelitian dan praktisi dan berbagai bidang telah berkontribusi terhadap keberhasilan visualisasi data yang luar biasa,yang didorong oleh sebagian besar domain dan aplikasi
+### <blockquote>Visualisasi data adalah bidang yang berkembang pesat dengan banyaknya hasil penelitian baru dan sistem baru yang dikembangkan baru baru ini.Penelitian dan praktisi dan berbagai bidang telah berkontribusi terhadap keberhasilan visualisasi data yang luar biasa,yang didorong oleh sebagian besar domain dan aplikasi
