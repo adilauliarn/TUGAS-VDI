@@ -5,11 +5,11 @@
 ---
 # RESUME JURNAL  
 ---
-## <blockquote>*Making Data Visualization More efficient and Effective a survey*
-<blockquote>### by Xuedi Qin,Yuyu Lao,Nantang,Guoling Li
+## *Making Data Visualization More efficient and Effective a survey*
+### by Xuedi Qin,Yuyu Lao,Nantang,Guoling Li
 ---
 
-## Pendahuluan
+## <blockquote>Pendahuluan
 
 ### Visualisasi data adalah sarana untuk mengubah data abstrak menjadi visi fisik untuk menginformasikan kisah data yang menarik yg lebih berorientasi visual
 
