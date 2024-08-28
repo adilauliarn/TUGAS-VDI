@@ -5,7 +5,7 @@
 
 # Judul Jurnal 
 
-## *Making Data Visualization More rfficient and Effective a survey*
+## *Making Data Visualization More efficient and Effective a survey*
 
 ## Pendahuluan
 
