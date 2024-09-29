@@ -28,13 +28,14 @@ Analisis :
 - Prinsip Ketiga ( **creating accssibility through intuitive design** ): Warna yang digunakan cukup kontras dan sederhana, sehingga visualisasi mudah diakses dan dibaca oleh berbagai pengguna.Namun, desain peta dunia dan lingkaran merah yang mewakili jumlah pembunuh berantai tidak intuitif. Ukuran lingkaran yang tidak sesuai dengan data dan kurangnya skala untuk membandingkan besar lingkaran membuat grafik ini sulit dipahami dengan cepat.
 - Prinsip Keempat ( **never deceive the receiver** ) : penggunaan lingkaran yang tidak proporsional pada peta dapat membuat pemirsa salah menafsirkan data, karena tidak ada ukuran jelas untuk membandingkan nilai yang ditunjukkan dalam lingkaran tersebut dengan nilai di bar chart
 ----
-Kesimpulan :
+*Kesimpulan :*
+-
 - Prinsip Pertama ( **strive for form & function** ) : Visualisasi COVID-19 lebih unggul dalam menyelaraskan bentuk dan fungsi, sementara visualisasi pembunuh berantai lebih memprioritaskan bentuk daripada fungsi.
 - Prinsip Kedua ( **justifying selection of everything we do**  ) : Visualisasi COVID-19 lebih baik dalam membenarkan setiap elemen yang digunakan, sedangkan visualisasi pembunuh berantai memiliki elemen yang berlebihan dan kurang efektif.
 - Prinsip Ketiga ( **creating accssibility through intuitive design** ): Visualisasi COVID-19 lebih mudah dipahami dan lebih intuitif dibandingkan visualisasi pembunuh berantai yang bisa membingungkan pengguna.
 - Prinsip Keempat ( **never deceive the receiver** ) : Visualisasi COVID-19 lebih jujur dan transparan dalam penyajian datanya, sementara visualisasi pembunuh berantai memiliki potensi menyesatkan karena skala yang tidak akurat.
 
 *Hasil Perbandingan kedua Visualisasi Data :*
---
+-
 Visualisasi COVID-19 lebih unggul dalam semua prinsip. Grafik ini berhasil menyajikan data dengan bentuk yang estetis, mudah dipahami, dan tidak menyesatkan, dengan setiap elemen digunakan secara efektif. Sementara itu, visualisasi pembunuh berantai lebih lemah karena fokusnya lebih pada bentuk visual (peta dan lingkaran) daripada fungsionalitas, sehingga data menjadi kurang informatif dan bisa menyesatkan pembaca.
 
